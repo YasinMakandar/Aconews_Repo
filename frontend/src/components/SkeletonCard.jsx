@@ -36,7 +36,6 @@ function SkeletonCard() {
       </div>
     </div>
     // <Stack  spacing={3}>
-
     //      <Skeleton variant="rounded" width={210} height={60} />
     // </Stack>
   );
